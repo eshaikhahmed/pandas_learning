@@ -6,11 +6,11 @@ Prequisite
 
 Very simple to run
 
-Step 1: Go to root folder i.e pandas_learning
-Step 2: Open command command/terminal on root directory/folder (pandas_learning)
-Step 3: Run command below command
-pip install pandas
-Step 4: python file_name.py
+Step 1: Go to root folder i.e pandas_learning.
+Step 2: Open command command/terminal on root directory/folder (pandas_learning).
+Step 3: Run command below command.
+> pip install pandas
+Step 4: python file_name.py.
 
 Yup that's it. It's simple!!
 
