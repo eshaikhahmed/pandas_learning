@@ -1,3 +1,4 @@
+
 import pandas as pd 
 
 # read your big file into df
@@ -9,3 +10,8 @@ top_5 = df.head(5);
 
 # save those top 5 rows into new file named as top_5.csv
 top_5.to_csv("top_5.csv", index=False);
+
+
+
+
+
