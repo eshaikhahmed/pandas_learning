@@ -11,5 +11,3 @@ sort_df = df.sort_values(by="student_name",
 
 # save file
 sort_df.to_csv("sort.csv", index=False);
-
-
