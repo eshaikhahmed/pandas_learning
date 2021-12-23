@@ -13,6 +13,3 @@ sort_df = df.sort_values(by="student_name",
 sort_df.to_csv("sort.csv", index=False);
 
 
-
-
-
